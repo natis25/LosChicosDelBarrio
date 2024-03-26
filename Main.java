@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner lector = new Scanner(System.in);
-		System.out.prinln("Ingrese un numero entero");
+		System.out.println("Ingrese un numero entero");
 		int numero = lector.nextInt();
 		//Natalia Urrutia
 		if (numero >= 20 && numero <= 24) {

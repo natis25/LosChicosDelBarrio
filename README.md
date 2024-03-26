@@ -9,3 +9,4 @@ Samuel Sanjines
 Sebastian Escobar
 
 Descripción de la tarea: Al momento de ingresar un número, dependiento del rango en el que este se encuentre este despliega el nombre de cada integrante del equipo. :)
+Cabe destacar que el número tiene que ser menor o igual a 50

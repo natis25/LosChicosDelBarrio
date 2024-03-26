@@ -14,6 +14,8 @@ public class Main {
 			} else if (numero < 0) {
 				System.out.println("Dani Nicole.");
 			}
+		} else {
+			System.out.println("Menor a 50 dice");
 		}
 		
 	}

@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
@@ -11,9 +11,12 @@ public class Main {
 		//Daniela Oropeza
 		} else if (numero < 0) {
 			System.out.println("Dani Nicole.");
+		} else if (numero >= 31 && numero <= 35) {
+			System.out.println("Nat Jallaza.");
 		}
 		
 	}
+
 
 }
 

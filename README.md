@@ -8,4 +8,4 @@ Daniela Oropeza
 Samuel Sanjines
 Sebastian Escobar
 
-Descripción de la tarea: Al momento de ingresar un número, dependiento del rango en el que este se encuentre este despliega el nombre de cada integrante del equipo. :)
+Descripción de la tarea: Al momento de ingresar un número, dependiento del condicional en el que este se encuentre este despliega el nombre de cada integrante del equipo. :)

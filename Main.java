@@ -7,7 +7,7 @@ public class Main {
 		System.out.println("Ingrese un numero entero");
 		int numero = lector.nextInt();
 		//Natalia Urrutia
-		if (numero >= 20 && numero <= 24) {
+		if (numero >= 0 && numero <= 24) {
 			System.out.println("Nati U.");
 		//Daniela Oropeza
 		} else if (numero < 0) {

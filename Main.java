@@ -5,9 +5,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		Scanner lector = new Scanner(System.in);
 		int numero = 0;
-		if (numero >= 20 && numero <= 24)
+		if (numero >= 36 && numero <= 44)
 		{
-			System.out.println("Nati U.");
+			System.out.println("Samuel Sanjines.");
 		}
 		
 	}

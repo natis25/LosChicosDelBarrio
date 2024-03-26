@@ -8,9 +8,6 @@ public class Main {
 		if (numero >= 20 && numero <= 24)
 		{
 			System.out.println("Nati U.");
-		} else if(numero < 0)
-		{
-			System.out.println("Dani Nicole.");
 		}
 		
 	}

@@ -16,7 +16,7 @@ public class Main {
 			}
 			if (numero >= 25 && numero <= 30) {
 				System.out.println("Alejandro Mollinedo");
-				//Alejandro Mollinedo
+				//Alejandro Mollinedo}
 			}else {
 			System.out.println("Menor a 50 dice");
 		}

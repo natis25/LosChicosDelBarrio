@@ -1,6 +1,5 @@
 import java.util.*;
 public class Main {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner lector = new Scanner(System.in);
@@ -16,8 +15,9 @@ public class Main {
 			}
 			if (numero >= 25 && numero <= 30) {
 				System.out.println("Alejandro Mollinedo");
-				//Alejandro Mollinedo}
-			}else {
+				//Alejandro Mollinedo
+			}
+		} else {
 			System.out.println("Menor a 50 dice");
 		}
 		

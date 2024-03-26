@@ -14,6 +14,10 @@ public class Main {
 			} else if (numero < 0) {
 				System.out.println("Dani Nicole.");
 			}
+			if (numero >= 25 && numero <= 30) {
+				System.out.println("Alejandro Mollinedo");
+				//Alejandro Mollinedo
+			}
 		}
 		
 	}
